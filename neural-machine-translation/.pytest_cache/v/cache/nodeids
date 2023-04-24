@@ -1,0 +1,5 @@
+[
+  "test_a2_bleu_score.py::test_bleu[True]",
+  "test_a2_bleu_score.py::test_bleu[False]",
+  "test_a2_encoder_decoder.py::test_update_beam"
+]
