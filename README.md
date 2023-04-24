@@ -1,4 +1,4 @@
-# Course project list
+# Course projects & assignments list
 
 Color gray images
 
