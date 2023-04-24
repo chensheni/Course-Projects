@@ -1,4 +1,4 @@
-# Color gray images from MIE1517 assigment
+# Color gray images
 
 To color grey images with the following 4 attempts:
 <br>attempt 1: autoencoder + regression loss
