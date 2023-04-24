@@ -1,4 +1,4 @@
-# Neural machine translation from CSC2511 Natural Language Processing
+# Neural machine translation from CSC2511 
 
 It compares multiple DNN structures on English-French translation task:
 
