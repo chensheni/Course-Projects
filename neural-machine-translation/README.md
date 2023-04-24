@@ -1,11 +1,9 @@
-# Computer-Vision-Color-Gray-Images from MIE1517 assigment
+# Neural machine translation from CSC2511 Natural Language Processing
 
-To color grey images with the following 4 attempts
+It compares multiple DNN structures on English-French translation task:
 
-attempt 1: autoencoder + regression loss
+<br> 1. SeqtoSeq model without attention
+<br> 2. SeqtoSeq model with attention
+<br> 3. SeqtoSeq model with multi-head attention
 
-attempt 2: U-Net + regression loss
-
-attempt 3: conditional GAN
-
-attempt 4: conditional GAN + LAB color space + L1 Loss included
+Detailed results can be found at report.pdf
