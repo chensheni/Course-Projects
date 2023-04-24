@@ -1,4 +1,4 @@
-# Neural machine translation from CSC2511 
+# Neural machine translation
 
 It compares multiple DNN structures on English-French translation task:
 <br> 1. SeqtoSeq model without attention
